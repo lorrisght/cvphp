@@ -1,0 +1,65 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif; /* pour la police d'écriture */
+    font-size: 100;
+}
+ h2 {
+font-family: Arial, Helvetica, sans-serif; /* pour la police d'écriture */
+max-width: 500;
+}
+
+.pres {
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+
+h3 {
+font-size: large;
+font-weight: 800;
+font-family: Arial, Helvetica, sans-serif; /* pour la police d'écriture */
+}
+
+.date_dip{
+padding-left: 20px;
+ font-size: medium;
+ font-style: italic;
+
+ }
+ .form{
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif; /* pour la police d'écriture */
+ }
+ .titre_exp {
+  font-size: large;
+  padding-top: 1000;
+ }
+
+ .cv-container {
+           
+    max-width: 900px;       
+    margin: 0 auto;         
+}
+
+.partie-haut {
+  display: block;   
+    width: 100%;
+    margin-bottom: 20px;
+}
+.separation {
+    display: flex;
+}
+
+ .partie-gauche {
+    width: 30%;            
+    background-color: #f0f4f8; 
+    padding: 20px;         
+}
+
+
+.partie-droite {
+    width: 70%;            
+    padding: 20px;         
+}
+
+
+
